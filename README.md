@@ -29,11 +29,6 @@ By the end of this course, you will:
 
 ## Resources
 
-- **Images**: Visual aids to help illustrate key concepts.
-  - ![Architecture](images/architecture.png)
-  - ![Workflow](images/workflow.png)
-  - ![Example Server](images/example-server.png)
-
 - **Tasks**: Practical tasks to reinforce your learning.
   - [Task 1](tasks/task-01.md)
   - [Task 2](tasks/task-02.md)
