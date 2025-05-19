@@ -3,6 +3,8 @@
 ![MCP Banner](./images/intro.png)
 
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/nisalgunawardhana)
+
 Welcome to the Introduction to MCP course! This repository serves as a comprehensive guide to understanding and utilizing the Model Context Protocol (MCP) in AI applications. Below, you will find an overview of the course content, objectives, and links to additional resources.
 
 ## Course Content Overview
